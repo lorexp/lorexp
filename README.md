@@ -1,19 +1,11 @@
-### Hi there 👋
+# Vinicius da Palma
 
-<!--
-**lorexp/lorexp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Backend Engineer at B4You, working on fintech and payments.
 
-Here are some ideas to get you started:
+I build Node.js and TypeScript services around Pix, payment gateways, multi-acquirer setups, and split/commission payouts, mostly on AWS.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I've been at B4You (formerly Sixbase) since 2019 — senior since 2022 — and worked at PixtoPay from 2024 to 2026.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lorexp&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lorexp)](https://github.com/anuraghazra/github-readme-stats)
+Node.js · TypeScript · NestJS · Express · AWS · MySQL
+
+[LinkedIn](https://www.linkedin.com/in/vinicius-palma-nodejs/)
